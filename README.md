@@ -22,7 +22,8 @@ See `models/metrics.json` and `model_comparison.csv`. These values were generate
 ```bash
 pip install -r requirements.txt
 python app.py
-```
+```https://94ed3558ccd219d537.gradio.live
+
 
 The trained model files in `models/` must be present. The sentence-transformer encoder is downloaded by name on first launch.
 
