@@ -23,8 +23,6 @@ See `models/metrics.json` and `model_comparison.csv`. These values were generate
 pip install -r requirements.txt
 python app.py
 
-
-
 The trained model files in `models/` must be present. The sentence-transformer encoder is downloaded by name on first launch.
 
 ## Limitations
@@ -36,6 +34,5 @@ The trained model files in `models/` must be present. The sentence-transformer e
 ## Team
 Add the real team members and their contributions here.
 
-link for app
-https://94ed3558ccd219d537.gradio.live
+
 
